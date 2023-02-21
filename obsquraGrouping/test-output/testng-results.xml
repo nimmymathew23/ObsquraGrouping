@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T17:14:37 AST" name="Suite" finished-at="2023-02-20T17:14:40 AST" duration-ms="3473">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T17:14:37 AST" name="Test" finished-at="2023-02-20T17:14:40 AST" duration-ms="3473">
+      <class name="grouping.FbScreenShot">
+        <test-method signature="captureScreenshot()[pri:0, instance:grouping.FbScreenShot@3f6b0be5]" started-at="2023-02-20T17:14:37 AST" name="captureScreenshot" finished-at="2023-02-20T17:14:40 AST" duration-ms="3428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:grouping.FbScreenShot@3f6b0be5]" started-at="2023-02-20T17:14:40 AST" name="tearDown" finished-at="2023-02-20T17:14:40 AST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=captureScreenshot status=SUCCESS method=FbScreenShot.captureScreenshot()[pri:0, instance:grouping.FbScreenShot@3f6b0be5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- grouping.FbScreenShot -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
